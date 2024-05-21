@@ -1,4 +1,4 @@
-# TheTower 🕹️
+# TheTower 🕹️ ![TheTower]([https://ibb.co/dLp7rKS](https://i.ibb.co/D8MLtKN/boss.png))
 
 **TheTower** 🕹️ is a platformer game where the objective is to reach the top of the tower, starting from the bottom.
 
